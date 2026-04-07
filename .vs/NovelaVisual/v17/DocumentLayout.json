@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TobiBolli\\NovelaVisual\\",
+  "WorkspaceRootPath": "C:\\Users\\polar\\NovelaVisual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|C:\\Users\\polar\\NovelaVisual\\assets\\camaracuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\camaracuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\camaraoficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\camaraoficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personaje.cs",
+              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\personaje.cs",
+              "RelativeDocumentMoniker": "Assets\\personaje.cs",
+              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\personaje.cs",
+              "RelativeToolTip": "Assets\\personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:01:21.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "camaraoficina.cs",
+              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaraoficina.cs",
+              "RelativeDocumentMoniker": "Assets\\camaraoficina.cs",
+              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaraoficina.cs",
+              "RelativeToolTip": "Assets\\camaraoficina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:57:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-02T03:40:50.875Z",
+              "Title": "camaracuarto.cs",
+              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaracuarto.cs",
+              "RelativeDocumentMoniker": "Assets\\camaracuarto.cs",
+              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaracuarto.cs",
+              "RelativeToolTip": "Assets\\camaracuarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:55:25.655Z",
               "EditorCaption": ""
             }
           ]
