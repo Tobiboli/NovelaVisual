@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\polar\\NovelaVisual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\scripts\\puertacuar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puertacuar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\scripts\\puertaof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puertaof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|C:\\Users\\polar\\NovelaVisual\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|c:\\users\\polar\\novelavisual\\assets\\scripts\\camaraoficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|C:\\Users\\polar\\NovelaVisual\\assets\\scripts\\camaraoficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32D8F36C-C3B4-D835-1595-E960939A0B90}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camaraoficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "puertacuar.cs",
+              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\puertacuar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\puertacuar.cs",
+              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\puertacuar.cs",
+              "RelativeToolTip": "Assets\\scripts\\puertacuar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T03:03:13.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "puertaof.cs",
+              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\puertaof.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\puertaof.cs",
+              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\puertaof.cs",
+              "RelativeToolTip": "Assets\\scripts\\puertaof.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T03:00:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "menu.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\menu.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\menu.cs",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "Assets\\scripts\\menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T01:48:49.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T01:48:49.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "camaraoficina.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\camaraoficina.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\camaraoficina.cs",
@@ -59,12 +92,11 @@
               "RelativeToolTip": "Assets\\scripts\\camaraoficina.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T04:26:46.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T04:26:46.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "puertaof.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\puertaof.cs",
               "RelativeDocumentMoniker": "Assets\\puertaof.cs",
@@ -75,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "personaje.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\personaje.cs",
               "RelativeDocumentMoniker": "Assets\\personaje.cs",
@@ -86,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "camaraoficina.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaraoficina.cs",
               "RelativeDocumentMoniker": "Assets\\camaraoficina.cs",
@@ -98,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "camaracuarto.cs",
               "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\camaracuarto.cs",
               "RelativeDocumentMoniker": "Assets\\camaracuarto.cs",
