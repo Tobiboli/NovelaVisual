@@ -7,9 +7,9 @@ public class Menu : MonoBehaviour
     {
      SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }  
-    public void finales()
+    public void salir()
     {
-        Debug.Log("Sin finales...");
+        Debug.Log("Saliendo del juego...");
         Application.Quit();
     }
     }
