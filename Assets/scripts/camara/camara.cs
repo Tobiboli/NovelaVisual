@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class camaraoficina : MonoBehaviour
+public class camara : MonoBehaviour
 {
     public Transform player; // El jugador a seguir
     public float minX, maxX, minY, maxY; // Límites
