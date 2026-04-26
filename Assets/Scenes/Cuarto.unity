@@ -539,7 +539,6 @@ GameObject:
   - component: {fileID: 295285213}
   - component: {fileID: 295285212}
   - component: {fileID: 295285211}
-  - component: {fileID: 295285210}
   m_Layer: 0
   m_Name: Baul
   m_TagString: Untagged
@@ -547,18 +546,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &295285210
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 295285209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06c27728b3466204fa804d744caf4c40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &295285211
 Rigidbody2D:
   serializedVersion: 4
