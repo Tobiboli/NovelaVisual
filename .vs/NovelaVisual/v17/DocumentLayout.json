@@ -1,23 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\polar\\NovelaVisual\\",
+  "WorkspaceRootPath": "C:\\Users\\TobiBolli\\NovelaVisual\\",
   "Documents": [
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\polar\\NovelaVisual\\Temp\\ParsedCombinations-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\ParsedCombinations-UI-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> 99c67bb0edb69da8abbf58f48ffcfae5bd2c0439
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +22,6 @@
           "Children": [
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Tareas.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
@@ -39,28 +29,6 @@
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
-=======
-              "DocumentIndex": 0,
-              "Title": "ParsedCombinations-UI-Default.shader",
-              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Temp\\ParsedCombinations-UI-Default.shader",
-              "RelativeDocumentMoniker": "Temp\\ParsedCombinations-UI-Default.shader",
-              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Temp\\ParsedCombinations-UI-Default.shader",
-              "RelativeToolTip": "Temp\\ParsedCombinations-UI-Default.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2026-04-30T18:39:54.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "personaje.cs",
-              "DocumentMoniker": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "ToolTip": "C:\\Users\\polar\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "RelativeToolTip": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
->>>>>>> 99c67bb0edb69da8abbf58f48ffcfae5bd2c0439
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T01:52:33.565Z",
               "EditorCaption": ""
