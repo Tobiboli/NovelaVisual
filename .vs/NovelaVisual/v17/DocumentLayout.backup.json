@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TobiBolli\\NovelaVisual\\",
+  "WorkspaceRootPath": "C:\\Users\\tayde\\NovelaVisual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Data.cs",
+              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\Data.cs",
+              "RelativeToolTip": "Assets\\scripts\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:04:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "personaje.cs",
-              "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
+              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
+              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
               "RelativeToolTip": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T19:13:03.472Z",
               "EditorCaption": ""
