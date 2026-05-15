@@ -12,7 +12,7 @@ public class SistemaMisiones : MonoBehaviour
 
     [Header("Datos de la Misión")]
     public int misionID;
-    public int puntosDeConfianza = 50;
+    public int puntosDeConfianza = 0;
     [TextArea] public string descripcion;
     [TextArea] public string mensajeCompletado;
 
