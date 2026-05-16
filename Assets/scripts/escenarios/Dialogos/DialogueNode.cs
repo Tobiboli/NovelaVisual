@@ -22,14 +22,11 @@ public struct DialogueChoice
 [CreateAssetMenu(fileName = "NuevoNodoDialogo", menuName = "Sistema de Diálogos/Nodo de Diálogo")]
 public class DialogueNode : ScriptableObject
 {
-    [Header("Conversación Lineal")]
     public List<DialogueLine> dialogueLines;
 
-    [Header("Ramificaciones (Opciones)")]
     public List<DialogueChoice> choices;
 
 
-    [Header("Siguiente Nodo Automático")]
     public DialogueNode nextNode;
 
     public bool IsChoiceNode => choices != null && choices.Count > 0;
