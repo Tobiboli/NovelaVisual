@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: VHS 1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: "Mam\xE1"
+    text: Me alegra que hayas encontrado la caja, en su momento me preocupaba haberla
+      escondido muy bien.
+    characterSprite: {fileID: 0}
+  - characterName: "Mam\xE1"
+    text: "Te dejo estas cintas que s\xE9 que te van a servir bastante en un futuro
+      no tan lejano."
+    characterSprite: {fileID: 0}
+  - characterName: "Mam\xE1"
+    text: "Creo me falto aconsejarte mejor en su momento, pero lo bueno de las cintas,
+      es que podr\xE1s repetirlas cada que lo necesites cuando ya no est\xE9. Tienen
+      un orden, no te lo saltes, la \xFAltima, es una pel\xEDcula que sol\xEDamos
+      ver cuando eras beb\xE9 tal vez por eso no la recuerdes ahora, pero cuando
+      la veas se que te resultar\xE1 familiar.\r"
+    characterSprite: {fileID: 0}
+  - characterName: "Mam\xE1"
+    text: " Espero no haberme extendido mucho, cuando me paso del tiempo tarda mucho
+      en guardarse en el casete. S\xE9 que este material te va a servir y espero
+      jam\xE1s me olvides."
+    characterSprite: {fileID: 0}
+  choices: []
+  nextNode: {fileID: 0}
