@@ -9,6 +9,7 @@ public class personaje : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
+        Time.timeScale = 1f;
     }
     void Update()
     {

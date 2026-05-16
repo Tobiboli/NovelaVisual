@@ -41,6 +41,7 @@ public class puertacuar : MonoBehaviour
     public void CambiarDeEscena()
     {
         SceneManager.LoadScene(NumeroEscena);
+
     }
 
     public void CerrarCartel()
