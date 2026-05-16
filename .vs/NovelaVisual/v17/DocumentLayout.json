@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\TobiBolli\\NovelaVisual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\VHS\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\personajes\\Jugador\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,24 +11,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\personajes\\camara\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\VHS\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\VHS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,8 +31,32 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertaof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,6 +65,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,24 +86,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "personaje.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\Jugador\\personaje.cs",
               "RelativeToolTip": "Assets\\scripts\\personajes\\Jugador\\personaje.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:47.712Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "camara.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\personajes\\camara\\camara.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\personajes\\camara\\camara.cs",
@@ -112,11 +113,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:46.004Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "menu.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\menu\\menu.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\menu\\menu.cs",
@@ -125,24 +127,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:43.589Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Video.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\Video.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\VHS\\Video.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\Video.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\VHS\\Video.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:35.709Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "VHS.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\VHS.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\VHS\\VHS.cs",
@@ -151,11 +155,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:32.66Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Reproductor.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\VHS\\Reproductor.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\VHS\\Reproductor.cs",
@@ -164,37 +169,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:31.272Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Tareas.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Sistema de misones\\Tareas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:27.896Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "SistemaMisiones.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Sistema de misones\\SistemaMisiones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:25.177Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "BarraConfianzaRuta.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Sistema de misones\\BarraConfianzaRuta.cs",
@@ -203,11 +211,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:21.657Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "RelacionesManager.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Sistema de misones\\RelacionesManager.cs",
@@ -216,30 +225,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:22.726Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "DialogueTrigger.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Dialogos\\DialogueTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:15.886Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "DialogueNode.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Dialogos\\DialogueNode.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBUAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:13.928Z",
               "IsPinned": true,
@@ -247,20 +258,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "DialogueManager.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Dialogos\\DialogueManager.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:12.392Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Salir.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Cambios Scenes\\Salir.cs",
@@ -274,46 +286,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "puertaof.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertaof.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Cambios Scenes\\puertaof.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertaof.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Cambios Scenes\\puertaof.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:01.254Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "puertacuar.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\Cambios Scenes\\puertacuar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:25:55.138Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "DatosJuego.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs",
               "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs",
               "RelativeToolTip": "Assets\\scripts\\escenarios\\sistema de guardado\\DatosJuego.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:19.677Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ControlDatosJuego.cs",
               "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\sistema de guardado\\ControlDatosJuego.cs",
@@ -322,19 +337,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T11:26:18.623Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TMPro_UGUI_Private.cs",
-              "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
-              "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
-              "ViewState": "AgIAAO0EAAAAAAAAAAAYwPkEAABBAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "TerminarDIa.cs",
+              "DocumentMoniker": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs",
+              "ToolTip": "C:\\Users\\TobiBolli\\NovelaVisual\\Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs",
+              "RelativeToolTip": "Assets\\scripts\\escenarios\\Cambios Scenes\\TerminarDIa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T16:29:41.502Z"
+              "WhenOpened": "2026-05-16T18:48:19.708Z",
+              "EditorCaption": ""
             }
           ]
         }
