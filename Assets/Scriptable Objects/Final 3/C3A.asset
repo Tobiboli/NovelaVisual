@@ -26,19 +26,19 @@ MonoBehaviour:
     text: "Lo encontr\xE9 por ah\xED\u2026\r\n\r"
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: " \xBFNo habr\xE1s revisado los expedientes de RH? \xBFVerdad?\r\r\n\r"
+    text: " \xBFNo habras revisado los expedientes de RH? \xBFVerdad?\r\r\n\r"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: " Es que tienen foto y lo pod\xEDa encontrar as\xED m\xE1s f\xE1cil\u2026\r"
+    text: " Es que tienen foto y lo podia encontrar asi mas facil\u2026\r"
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "\xBFPor qu\xE9 no preguntar a alguien de la oficina?\r"
+    text: "Por que no preguntar a alguien de la oficina?\r"
     characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: " Me gustan las cosas discretas, sabes c\xF3mo vuelan los chismes.\r"
+    text: " Me gustan las cosas discretas, sabes como vuelan los chismes.\r"
     characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: " Tiene sentido\u2026 Solo me queda la duda con qu\xE9 cosas eres discreto\u2026
+    text: " Tiene sentido\u2026 Solo me queda la duda con que cosas eres discreto\u2026
       \r"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: ...
@@ -54,19 +54,19 @@ MonoBehaviour:
     text: "(En la tarde noche)\r"
     characterSprite: {fileID: 0}
   - characterName: Gabriel
-    text: "Oye, \xBFLograste terminar?\r\r"
+    text: "Oye\nLograste terminar?\r\r"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: " Todav\xEDa no y ya casi es la hora de salida\r\r"
+    text: " Todavia no y ya casi es la hora de salida\r\r"
     characterSprite: {fileID: 152283693, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
     text: "Si quieres\u2026 Dejalo hasta donde termines y lo terminas en casa, la
-      oficina de noche no es muy agradable, adem\xE1s que no vas a encontrar transporte
+      oficina de noche no es muy agradable, ademas que no vas a encontrar transporte
       muy tarde\r\r"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "Tienes raz\xF3n, igual no me falta mucho, pero una hora m\xE1s hace la
-      diferencia para tomar transporte. \r\r"
+    text: "Tienes razon, igual no me falta mucho, pero una hora m\xE1s hace la diferencia
+      para tomar transporte. \r\r"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
     text: " Te\u2026 Te llevo,  espero que de la hora y bajo a encender el coche,

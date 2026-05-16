@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - characterName: Jugador
-    text: "Prota: La verdad, no estoy interesada en ti, disculpame si mi amabilidad
-      se interpret\xF3 distinto.\r\n"
+    text: "La verdad, no estoy interesada en ti, disculpame si mi amabilidad se interpret\xF3
+      distinto\r\n"
     characterSprite: {fileID: 152283693, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   choices: []
   nextNode: {fileID: 0}

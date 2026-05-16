@@ -17,7 +17,7 @@ MonoBehaviour:
     text: TOK! TOK! TOK!...
     characterSprite: {fileID: 0}
   - characterName: Gabriel
-    text: "Buenos d\xEDas, oye, c\xF3mo trabajaste mucho anoche me tom\xE9 la libertad
+    text: "Buenos d\xEDas, oye, como trabajaste mucho anoche me tome la libertad
       de comprarte el desayuno y no te preocupes del transporte, vine por ti...\r"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: jugador
@@ -30,21 +30,23 @@ MonoBehaviour:
     text: Que bueno que fuiste por mi, si no llegaba tarde
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: " No te preocupes, de aqu\xED en adelante si quieres, puedo ir por ti y
-      dejarte en tu casa. No me gustar\xEDa que te pasara algo"
+    text: " No te preocupes, de aqui en adelante si quieres, puedo ir por ti y dejarte
+      en tu casa. No me gustar\xEDa que te pasara algo"
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: jugador
-    text: "\xBFEnserio?\r\n"
+    text: 'Enserio?
+
+'
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "Claro, mira, hace mucho tiempo te hab\xEDa visto y no me hab\xEDa atrevido
-      a acercarme y la verdad, ahora que tengo el valor\u2026\r"
+    text: "Claro, mira, hace mucho tiempo te habia visto y no me habia atrevido a
+      acercarme y la verdad, ahora que tengo el valor\u2026\r"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: jugador
     text: ...
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: " \xBFQuieres salir conmigo esta noche?"
+    text: ' Quieres salir conmigo esta noche?'
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   choices:
   - choiceText: SI

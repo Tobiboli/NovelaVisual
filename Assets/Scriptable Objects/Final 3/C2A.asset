@@ -31,11 +31,11 @@ MonoBehaviour:
       Esntore tu numero espero que no te moleste'
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "Me tom\xE9 el atrevimiento de eso\u2026 y comprarte un caf\xE9 por si
-      no dormiste anoche. Un abrazo"
+    text: "Me tome el atrevimiento de eso\u2026 y comprarte un cafe por si no dormiste
+      anoche\nUn abrazo"
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "No te preocupes, me halagas, ah\xED estar\xE9 en un rato"
+    text: No te preocupes, me halagas, ahi estare en un rato
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   choices: []
   nextNode: {fileID: 0}

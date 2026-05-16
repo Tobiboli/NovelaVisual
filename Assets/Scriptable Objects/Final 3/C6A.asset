@@ -17,7 +17,9 @@ MonoBehaviour:
     text: ...
     characterSprite: {fileID: 0}
   - characterName: Jugador
-    text: "Mi mam\xE1 me dej\xF3 unas cintas antes de morir.\r\n"
+    text: 'Mi mama me deja unas cintas antes de morir.
+
+'
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
     text: " De verdad lo siento\u2026 si quieres podemos hablar de otra cosa."
@@ -26,14 +28,16 @@ MonoBehaviour:
     text: No, no te preocupes, la verdad necesito compartir esto con alguien
     characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "\xBFY cu\xE1ntas cintas te dejo?\r\n"
+    text: 'Y cuantas cintas te dejo?
+
+'
     characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "Son 4, de hecho, la \xFAltima no es un video de ella, si no una pel\xEDcula
-      que dice que ve\xEDamos juntas cuando era beb\xE8.\r"
+    text: "Son 4, de hecho, la ultima no es un video de ella, si no una pel\xEDcula
+      que dice que ve\xEDamos juntas cuando era bebe.\r"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "\xBFQu\xE9 pel\xEDcula es?"
+    text: "Que pel\xEDcula es?"
     characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
     text: La verdad no se, y ella misma menciona que cuando la vea, la voy a reconocer

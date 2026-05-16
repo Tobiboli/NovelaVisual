@@ -17,25 +17,29 @@ MonoBehaviour:
     text: HEY!
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: " \xA1Ay perd\xF3name!, \xBFNecesitabas algo?, necesito ir por unas impresiones
-      de urgencia"
+    text: 'Ay perdoname!
+
+      Necesitabas algo? necesito ir por unas impresiones
+      de urgencia'
     characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "Hablas de\u2026 \xBFEstas impresiones?"
+    text: "Hablas de\u2026 \nEstas impresiones?"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "Muchas gracias, pens\xE9 que alguien m\xE1s ya las hab\xEDa tomado, apenas
-      iba a salir a recogerlas ya sabes que las destruyen si no vas por ellas"
+    text: Muchas gracias, pense que alguien mas ya las habia tomado, apenas iba a
+      salir a recogerlas ya sabes que las destruyen si no vas por ellas
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: Bueno ya no tienes que ir. Bueno, solo venia a eso
+    text: 'Bueno ya no tienes que ir
+
+      Bueno, solo venia a eso'
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "Oye, perd\xF3n\u2026, no s\xE9 tu nombre pero eres muy agradable, me gustaria
-      verte mas seguido por aqu\xED"
+    text: "Oye, perdon\u2026, no se tu nombre pero eres muy agradable, me gustaria
+      verte mas seguido por aqui"
     characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "Entonces vendr\xE9 m\xE1s seguido..."
+    text: Entonces vendre mas seguido...
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   choices: []
   nextNode: {fileID: 0}

@@ -17,8 +17,8 @@ MonoBehaviour:
     text: Quiero pensar que las cosas van mejor
     characterSprite: {fileID: 0}
   - characterName: mama
-    text: "sabes? algo que aprend\xED es que todo debe ser claro si el amor est\xE1
-      ah\xED, lo vas a sentir"
+    text: sabes? algo que aprendi es que todo debe ser claro si el amor esta ahi,
+      lo vas a sentir
     characterSprite: {fileID: 0}
   - characterName: mama
     text: ' Ni siquiera vas a tener que preguntar todo se va a responder solo...'

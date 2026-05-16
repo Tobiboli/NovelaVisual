@@ -38,13 +38,13 @@ MonoBehaviour:
     text: (En el departamento)
     characterSprite: {fileID: 0}
   - characterName: Jugador
-    text: "Gracias por la cena, la pas\xE9 muy bien"
+    text: Gracias por la cena, la pase muy bien
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
     text: "Gracias a ti por haber aceptado\u2026"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: " \xBFPor qu\xE9 me ves tan fijamente?.\r"
+    text: " Por que me ves tan fijamente?.\r"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
     text: "Es que\u2026 Luces hermosa\u2026"
@@ -58,13 +58,13 @@ MonoBehaviour:
     text: "Dime\u2026\r\n"
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: "Me gustar\xEDa compartir algo contigo \xBFQuieres pasar?"
+    text: "Me gustaria compartir algo contigo \xBFQuieres pasar?"
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "\xBFEst\xE1s segura?"
+    text: Estas segura?
     characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
-    text: " Si, no te preocupes, tiene que ver con mi mam\xE1, pasa"
+    text: ' Si, no te preocupes, tiene que ver con mi mama, pasa'
     characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   choices: []
   nextNode: {fileID: 11400000, guid: fb0db432e9cc0cd4aa867de7e66b6c2c, type: 2}

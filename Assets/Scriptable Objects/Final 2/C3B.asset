@@ -27,13 +27,13 @@ MonoBehaviour:
     text: Pero no sabes que me gusta
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: " Pero ya ped\xED, no voy a cambiar la comida"
+    text: ' Pero ya pedi, no voy a cambiar la comida'
     characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Mesero
     text: Aqui esta su comida
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "\xA1Muchas gracias!"
+    text: Muchas gracias!
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
     text: "Tardaste demasiado, ya deber\xEDa estar comiendo, sabes que ya vete"
@@ -42,10 +42,10 @@ MonoBehaviour:
     text: ...
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: "Ya come \xBFno?"
+    text: "Ya come \nno?"
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "Soy al\xE9rgica a esto\u2026"
+    text: "Soy alergica a esto\u2026"
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
     text: Y?
@@ -60,10 +60,10 @@ MonoBehaviour:
     text: ' Come solo, no me voy a comer algo que me va a llevar al hospital'
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: " Espera, m\xEDnimo pagalo, ya lo pedi"
+    text: ' Espera, minimo pagalo, ya lo pedi'
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "Pagalo tu, yo no lo ped\xED"
+    text: Pagalo tu, yo no lo pedi
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
     text: Eres un idiota

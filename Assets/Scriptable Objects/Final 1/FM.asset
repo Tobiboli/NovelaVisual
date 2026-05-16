@@ -17,26 +17,30 @@ MonoBehaviour:
     text: Hey!
     characterSprite: {fileID: -1938305485, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: ???
-    text: "Voy de salida \xBFnecesitas algo?"
+    text: 'Voy de salida
+
+      necesitas algo?'
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "Ah s\xED\u2026 Encontr\xE9 estas copias y quise traerlas, me parece que
-      son tuyas\r"
+    text: "Ah si\u2026 Encontre estas copias y quise traerlas, me parece que son
+      tuyas\r"
     characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: ???
     text: "\u2026"
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: ???
-    text: "No pueden ser m\xEDas porque apenas mande a imprimir, \xBFAlguien te mand\xF3
-      a dejarme trabajo extra?"
+    text: 'No pueden ser mias porque apenas mande a imprimir
+
+      Alguien te mando
+      a dejarme trabajo extra?'
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "No, no encontr\xE9 las copias y pens\xE9 que eran tuyas"
+    text: No, no encontre las copias y pense que eran tuyas
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: ???
-    text: "Sabes que, sal de aqu\xED y ll\xE9vate esos papeles que no son m\xEDos
-      y aun asi lo fueran nadie te pidi\xF3 el favor, sal de mi cub\xEDculo que necesito
-      seguir trabajando\r"
+    text: "Sabes que, sal de aqui y llevate esos papeles que no son mios y aun asi
+      lo fueran nadie te pidi\xF3 el favor, sal de mi cubiculo que necesito seguir
+      trabajando\r"
     characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: ???
     text: "Ah y deja de tomar trabajos ajenos, te van a sancionar\r"

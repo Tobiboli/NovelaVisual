@@ -26,7 +26,9 @@ MonoBehaviour:
     text: Gracias por traerme
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "Bueno, no quer\xEDa que regresaras sola.\r\n"
+    text: 'Bueno, no queria que regresaras sola.
+
+'
     characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
     text: "*Le da un suave beso en la mejilla* Eres muy dulce, nos vemos ma\xF1ana."

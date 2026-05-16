@@ -17,19 +17,19 @@ MonoBehaviour:
     text: Hey!
     characterSprite: {fileID: -1938305485, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: "Voy de salida \xBFNecesitas algo?.\r"
+    text: "Voy de salida \nNecesitas algo?.\r"
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "Te vi algo cansado al entrar, as\xED que me tom\xE9 la libertad de traerte
+    text: "Te vi algo cansado al entrar, as\xED que me tome la libertad de traerte
       un cafe\r\r"
     characterSprite: {fileID: -1994014721, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: "Oh\u2026\xA1Muchas gracias!, aprecio el detalle, la verdad no dorm\xED
-      casi nada anoche y me siento muy cansado\r\r"
+    text: "Oh\u2026Muchas gracias!\nAprecio el detalle, la verdad no dormi casi nada
+      anoche y me siento muy cansado\r\r"
     characterSprite: {fileID: -1994014721, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: "Sabes\u2026 te hab\xEDa visto pero no me quise acercar mucho, ya sabes
-      por eso de los chismes en la oficina.\r\n"
+    text: "Sabes\u2026 te habia visto pero no me quise acercar mucho, ya sabes por
+      eso de los chismes en la oficina.\r\n"
     characterSprite: {fileID: 922418305, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: jugador
     text: "Bueno, pues ahora puedes\u2026 Claro si quieres\r"
@@ -38,11 +38,11 @@ MonoBehaviour:
     text: "Claro que quiero, eres sorprendentemente agradable, pensaba que eras mas\u2026\r"
     characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
-    text: "\xBFM\xE1s que?...\r\r"
+    text: "\xBFMas que?...\r\r"
     characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Julian
-    text: "M\xE1s recatada y aburrida, pero veo que no es as\xED. Mira, ahora ando
-      un poco apretado de trabajo, pero ma\xF1ana podemos salir \xBFTe parece?\r\r"
+    text: "Mas recatada y aburrida, pero veo que no es asi\n Mira, ahora ando un
+      poco apretado de trabajo, pero ma\xF1ana podemos salir \nTe parece?\r\r"
     characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
   - characterName: Jugador
     text: "Supongo que esta bien\r\r"

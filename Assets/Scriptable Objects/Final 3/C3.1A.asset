@@ -14,11 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - characterName: Jugador
-    text: "Pens\xE1ndolo mejor, prefiero terminarlo aqu\xED y de paso me pagan horas
-      extras"
+    text: Pensandolo mejor, prefiero terminarlo aqui y de paso me pagan horas extras
     characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Gabriel
-    text: "\xBFEst\xE1s segura? Yo creo que\u2026\r"
+    text: "\xBFEstas segura? Yo creo que\u2026\r"
     characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
   - characterName: Jugador
     text: "Estoy segura\r"

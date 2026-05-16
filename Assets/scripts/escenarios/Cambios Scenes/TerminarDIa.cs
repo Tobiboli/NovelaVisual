@@ -6,6 +6,11 @@ public class TerminarDIa : MonoBehaviour
 {
     [SerializeField] private GameObject cartelUI;
 
+    void Start()
+    {
+        cartelUI.SetActive(false);
+    }
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (cartelUI != null)

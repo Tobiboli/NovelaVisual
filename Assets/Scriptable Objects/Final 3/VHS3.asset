@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - characterName: mama
-    text: "Wow, creo que necesitaste el segundo demasiado r\xE1pido, no se cuanto
-      tiempo ha pasado pero puedo intuir desde el pasado lo r\xE1pido que es"
+    text: Wow, creo que necesitaste el segundo demasiado rapido, no se cuanto tiempo
+      ha pasado pero puedo intuir desde el pasado lo rapido que es
     characterSprite: {fileID: 0}
   - characterName: mama
-    text: " Y si mi radar no est\xE1 fallando, se que es por amor"
+    text: ' Y si mi radar no esta fallando, se que es por amor'
     characterSprite: {fileID: 0}
   - characterName: mama
-    text: "Sabes\u2026 A veces el amor suele ser lento y confuso, pero est\xE1 bien,
-      es parte del proceso, debe salir adelante y seguir su intuici\xF3n"
+    text: "Sabes\u2026 A veces el amor suele ser lento y confuso, pero esta bien,
+      es parte del proceso, debe salir adelante y seguir su intuicion"
     characterSprite: {fileID: 0}
   choices: []
   nextNode: {fileID: 0}

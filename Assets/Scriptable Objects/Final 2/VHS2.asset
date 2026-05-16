@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - characterName: MAMA
-    text: "Wow, creo que necesitaste el segundo demasiado r\xE1pido, no se cuanto
-      tiempo ha pasado pero puedo intuir desde el pasado lo r\xE1pido que es."
+    text: Wow, creo que necesitaste el segundo demasiado rapido, no se cuanto tiempo
+      ha pasado pero puedo intuir desde el pasado lo rapido que es.
     characterSprite: {fileID: 0}
   - characterName: MAMA
-    text: "Y si mi radar no est\xE1 fallando, se que es por amor."
+    text: Y si mi radar no esta fallando, se que es por amor.
     characterSprite: {fileID: 0}
   - characterName: MAMA
-    text: "Sabes\u2026 A veces el amor llega a doler, pero est\xE1 bien, es parte
-      del proceso, vamos a lastimar y a ser lastimados, lo importante es comprender
-      al otro siempre, aunque nos haga da\xF1o, tendr\xE1 sus razones.\r"
+    text: "Sabes\u2026 A veces el amor llega a doler, pero esta bien, es parte del
+      proceso, vamos a lastimar y a ser lastimados, lo importante es comprender al
+      otro siempre, aunque nos haga da\xF1o, tendra sus razones.\r"
     characterSprite: {fileID: 0}
   choices: []
   nextNode: {fileID: 0}
