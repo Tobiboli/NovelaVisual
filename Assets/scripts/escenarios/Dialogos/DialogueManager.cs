@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 //controlador de los nodos en pantalla
 public class DialogueManager : MonoBehaviour
@@ -18,6 +19,8 @@ public class DialogueManager : MonoBehaviour
 
     [Header("Ajustes")]
     public float typingSpeed = 0.02f;
+    [SerializeField] private int numerodelasiguietescena;
+
 
     private DialogueNode currentNode;
     private int currentLineIndex = 0;
@@ -131,6 +134,7 @@ public class DialogueManager : MonoBehaviour
         else
         {
             EndDialogue();
+            SceneManager.LoadScene(numerodelasiguietescena);
         }
     }
 
@@ -179,3 +183,4 @@ public class DialogueManager : MonoBehaviour
         Debug.Log("Fin de la conversación.");
     }
 }
+
