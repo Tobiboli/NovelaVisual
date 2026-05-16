@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tayde\\NovelaVisual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DataHolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\DataHolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\ControlDatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\SaveManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\SaveManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\DatosJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +31,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataHolder.cs",
-              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DataHolder.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\DataHolder.cs",
-              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DataHolder.cs",
-              "RelativeToolTip": "Assets\\scripts\\DataHolder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "ControlDatosJuego.cs",
+              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\ControlDatosJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ControlDatosJuego.cs",
+              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\ControlDatosJuego.cs",
+              "RelativeToolTip": "Assets\\scripts\\ControlDatosJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:07:40.555Z",
+              "WhenOpened": "2026-05-09T04:58:55.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SaveManager.cs",
-              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\SaveManager.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\SaveManager.cs",
-              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\SaveManager.cs",
-              "RelativeToolTip": "Assets\\scripts\\SaveManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Title": "DatosJuego.cs",
+              "DocumentMoniker": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DatosJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DatosJuego.cs",
+              "ToolTip": "C:\\Users\\tayde\\NovelaVisual\\Assets\\scripts\\DatosJuego.cs",
+              "RelativeToolTip": "Assets\\scripts\\DatosJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:04:43.175Z",
+              "WhenOpened": "2026-05-09T04:54:11.993Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+
 //controlador de los nodos en pantalla
 public class DialogueManager : MonoBehaviour
 {
