@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FRANCIS LPM_0
+      name: Cuarto_0
       rect:
         serializedVersion: 2
         x: 69
@@ -105,7 +105,7 @@ TextureImporter:
         width: 498
         height: 232
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -118,7 +118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_1
+      name: Cuarto_1
       rect:
         serializedVersion: 2
         x: 615
@@ -126,7 +126,7 @@ TextureImporter:
         width: 554
         height: 385
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,7 +139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_2
+      name: Cuarto_2
       rect:
         serializedVersion: 2
         x: 1226
@@ -147,7 +147,7 @@ TextureImporter:
         width: 557
         height: 413
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,7 +160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_3
+      name: Cuarto_3
       rect:
         serializedVersion: 2
         x: 17
@@ -168,7 +168,7 @@ TextureImporter:
         width: 357
         height: 417
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,7 +181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_4
+      name: Cuarto_4
       rect:
         serializedVersion: 2
         x: 470
@@ -189,7 +189,7 @@ TextureImporter:
         width: 599
         height: 289
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_5
+      name: Cuarto_5
       rect:
         serializedVersion: 2
         x: 1194
@@ -210,7 +210,7 @@ TextureImporter:
         width: 614
         height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,7 +223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_6
+      name: Cuarto_6
       rect:
         serializedVersion: 2
         x: 491
@@ -231,7 +231,7 @@ TextureImporter:
         width: 609
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -244,7 +244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FRANCIS LPM_7
+      name: Cuarto_7
       rect:
         serializedVersion: 2
         x: 1334
@@ -252,7 +252,7 @@ TextureImporter:
         width: 60
         height: 456
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,14 +275,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      FRANCIS LPM_0: 1067327899
-      FRANCIS LPM_1: -2065010503
-      FRANCIS LPM_2: 1234437205
-      FRANCIS LPM_3: -725247213
-      FRANCIS LPM_4: -1410310656
-      FRANCIS LPM_5: -882411098
-      FRANCIS LPM_6: 1040366796
-      FRANCIS LPM_7: -1398469382
+      Cuarto_0: 1067327899
+      Cuarto_1: -2065010503
+      Cuarto_2: 1234437205
+      Cuarto_3: -725247213
+      Cuarto_4: -1410310656
+      Cuarto_5: -882411098
+      Cuarto_6: 1040366796
+      Cuarto_7: -1398469382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
