@@ -1382,6 +1382,7 @@ GameObject:
   - component: {fileID: 463199801}
   - component: {fileID: 463199803}
   - component: {fileID: 463199802}
+  - component: {fileID: 463199804}
   m_Layer: 0
   m_Name: Puerta
   m_TagString: Untagged
@@ -1501,6 +1502,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &463199804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 463199800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a42f60b5b59f38c43b789151fb8b5fcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NumeroVHS: 4
+  NumeroEscena: 13
+  cartelUI: {fileID: 1160731937}
 --- !u!1 &513199492
 GameObject:
   m_ObjectHideFlags: 0
@@ -2236,7 +2252,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1739833700}
+      - m_Target: {fileID: 463199804}
         m_TargetAssemblyTypeName: puertacuar, Assembly-CSharp
         m_MethodName: CambiarDeEscena
         m_Mode: 1
@@ -3216,7 +3232,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Quieres ir a dormir?
+  m_text: 'Quieres ir a trabajar?
 
     Viste el VHS de Mama antes de irte?'
   m_isRightToLeft: 0
@@ -3536,7 +3552,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1739833700}
+      - m_Target: {fileID: 463199804}
         m_TargetAssemblyTypeName: puertacuar, Assembly-CSharp
         m_MethodName: CerrarCartel
         m_Mode: 1
@@ -4351,7 +4367,6 @@ GameObject:
   - component: {fileID: 1739833697}
   - component: {fileID: 1739833699}
   - component: {fileID: 1739833698}
-  - component: {fileID: 1739833700}
   m_Layer: 0
   m_Name: cama
   m_TagString: Untagged
@@ -4471,21 +4486,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1739833700
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1739833696}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a42f60b5b59f38c43b789151fb8b5fcb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  NumeroVHS: 4
-  NumeroEscena: 13
-  cartelUI: {fileID: 1160731937}
 --- !u!1 &1965962781
 GameObject:
   m_ObjectHideFlags: 0
