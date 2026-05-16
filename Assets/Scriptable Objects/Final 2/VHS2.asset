@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: VHS2
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: MAMA
+    text: "Wow, creo que necesitaste el segundo demasiado r\xE1pido, no se cuanto
+      tiempo ha pasado pero puedo intuir desde el pasado lo r\xE1pido que es."
+    characterSprite: {fileID: 0}
+  - characterName: MAMA
+    text: "Y si mi radar no est\xE1 fallando, se que es por amor."
+    characterSprite: {fileID: 0}
+  - characterName: MAMA
+    text: "Sabes\u2026 A veces el amor llega a doler, pero est\xE1 bien, es parte
+      del proceso, vamos a lastimar y a ser lastimados, lo importante es comprender
+      al otro siempre, aunque nos haga da\xF1o, tendr\xE1 sus razones.\r"
+    characterSprite: {fileID: 0}
+  choices: []
+  nextNode: {fileID: 0}

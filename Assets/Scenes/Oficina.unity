@@ -776,6 +776,7 @@ RectTransform:
   - {fileID: 1838282648}
   - {fileID: 988755003}
   - {fileID: 1775694369}
+  - {fileID: 1624916225}
   m_Father: {fileID: 1896109299}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1544,7 +1545,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e5e1c809559a3c4aadd0f71c7d3bcda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidad: 5
 --- !u!50 &627612521
 Rigidbody2D:
   serializedVersion: 4
@@ -2869,7 +2869,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 770940112}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 500
+  m_MaxValue: 200
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
@@ -2888,7 +2888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slider: {fileID: 988755004}
-  npcIDAsociado: 1
+  npcIDAsociado: 2
 --- !u!1 &1044707270
 GameObject:
   m_ObjectHideFlags: 0
@@ -4489,11 +4489,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cartelUI: {fileID: 1624916222}
-  npcRutaA_ID: 1
-  npcRutaB_ID: 2
+  npcRutaA_ID: 2
+  npcRutaB_ID: 1
   numerodelasiguietescenaA: 3
-  numerodelasiguietescenaB: 4
-  numerodelasiguietescenaFinal: 5
+  numerodelasiguietescenaB: 10
+  numerodelasiguietescenaFinal: 14
 --- !u!61 &1490991524
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4812,18 +4812,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1624916222}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1360914809}
-  m_Father: {fileID: 1896109299}
+  m_Father: {fileID: 257973606}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -530.04, y: -297.2}
+  m_AnchoredPosition: {x: 294.18008, y: 146.03001}
+  m_SizeDelta: {x: 94.59003, y: 33.389984}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1637092982
 GameObject:
@@ -4946,7 +4946,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 444479903}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 500
+  m_MaxValue: 200
   m_WholeNumbers: 0
   m_Value: 0
   m_OnValueChanged:
@@ -4965,7 +4965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slider: {fileID: 1775694370}
-  npcIDAsociado: 2
+  npcIDAsociado: 1
 --- !u!1 &1804958010
 GameObject:
   m_ObjectHideFlags: 0
@@ -5158,7 +5158,6 @@ RectTransform:
   - {fileID: 257973606}
   - {fileID: 1044773592}
   - {fileID: 1474696543}
-  - {fileID: 1624916225}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -5485,7 +5484,7 @@ GameObject:
   - component: {fileID: 1909031108}
   - component: {fileID: 1909031109}
   m_Layer: 0
-  m_Name: NPC A
+  m_Name: NPC A Gabriel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5677,11 +5676,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panelMision: {fileID: 845768364}
   textoMision: {fileID: 834556427}
-  misionID: 1
+  misionID: 2
   puntosDeConfianza: 50
-  descripcion: Necesito cafe
+  descripcion: "Ummm... \xBFAyuda? Tengo algunos documentos que necesito imprimir "
   mensajeCompletado: Gracias, que amble ^^
-  rivalID: 2
+  rivalID: 1
   penalizacionRival: 20
 --- !u!1 &2055923760
 GameObject:
@@ -5695,34 +5694,14 @@ GameObject:
   - component: {fileID: 2055923764}
   - component: {fileID: 2055923763}
   - component: {fileID: 2055923762}
-  - component: {fileID: 2055923761}
+  - component: {fileID: 2055923766}
   m_Layer: 0
-  m_Name: NPC B
+  m_Name: NPC B Julian
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2055923761
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2055923760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f085e93a730a4644c94db61c27359777, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  panelMision: {fileID: 845768364}
-  textoMision: {fileID: 834556427}
-  misionID: 2
-  puntosDeConfianza: 50
-  descripcion: Necesito imprimir
-  mensajeCompletado: Gracias, que amble ^^
-  rivalID: 1
-  penalizacionRival: 20
 --- !u!61 &2055923762
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5901,6 +5880,28 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2055923766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055923760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f085e93a730a4644c94db61c27359777, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelMision: {fileID: 845768364}
+  textoMision: {fileID: 834556427}
+  misionID: 1
+  puntosDeConfianza: 50
+  descripcion: 'Estroy Bien... solo estoy un poco cansado
+
+    (necesita cafe)'
+  mensajeCompletado: Gracias, que amble ^^
+  rivalID: 2
+  penalizacionRival: 20
 --- !u!1 &2075714214
 GameObject:
   m_ObjectHideFlags: 0

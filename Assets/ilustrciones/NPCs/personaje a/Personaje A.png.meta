@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Personaje A_0
+      name: Personaje A_neutro
       rect:
         serializedVersion: 2
         x: 17
@@ -105,7 +105,7 @@ TextureImporter:
         width: 240
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -118,7 +118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personaje A_1
+      name: Personaje A_feliz
       rect:
         serializedVersion: 2
         x: 270
@@ -126,7 +126,7 @@ TextureImporter:
         width: 248
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,7 +139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personaje A_2
+      name: Personaje A_molesto
       rect:
         serializedVersion: 2
         x: 530
@@ -147,7 +147,7 @@ TextureImporter:
         width: 240
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,7 +160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personaje A_3
+      name: Personaje A_pensativo
       rect:
         serializedVersion: 2
         x: 781
@@ -168,7 +168,7 @@ TextureImporter:
         width: 239
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,15 +181,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personaje A_4
+      name: Personaje A_sorprendido
       rect:
         serializedVersion: 2
-        x: 1037
+        x: 1036
         y: 2
         width: 240
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Personaje A_5
+      name: Personaje A_timido
       rect:
         serializedVersion: 2
         x: 1293
@@ -210,7 +210,7 @@ TextureImporter:
         width: 239
         height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,12 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Personaje A_0: 1395028209
-      Personaje A_1: -1351972674
-      Personaje A_2: 152283693
-      Personaje A_3: 561683164
-      Personaje A_4: 1526299315
-      Personaje A_5: -1835251392
+      Personaje A_feliz: -1351972674
+      Personaje A_molesto: 152283693
+      Personaje A_neutro: 1395028209
+      Personaje A_pensativo: 561683164
+      Personaje A_sorprendido: 1526299315
+      Personaje A_timido: -1835251392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C3B
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Julian
+    text: "Hasta que llegas, tardaste demasiado\u2026"
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: "Nunca hab\xEDa venido por aqu\xED"
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: "Si me hubieras preguntado ayer no hubieras tardado tanto en venir, pero
+      ya est\xE1s aqu\xED, ya ped\xED"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: Pero no sabes que me gusta
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: " Pero ya ped\xED, no voy a cambiar la comida"
+    characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Mesero
+    text: Aqui esta su comida
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: "\xA1Muchas gracias!"
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: "Tardaste demasiado, ya deber\xEDa estar comiendo, sabes que ya vete"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: ...
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: "Ya come \xBFno?"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: "Soy al\xE9rgica a esto\u2026"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: Y?
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: "No lo puedo comer\u2026 "
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: No te pasa nada, debe ser cosa tuya, la comida no se desperdicia
+    characterSprite: {fileID: -1773230348, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: ' Come solo, no me voy a comer algo que me va a llevar al hospital'
+    characterSprite: {fileID: 307758205, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Julian
+    text: " Espera, m\xEDnimo pagalo, ya lo pedi"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: "Pagalo tu, yo no lo ped\xED"
+    characterSprite: {fileID: -495487923, guid: 5a256c7255cc79b4baf845dbf0682be6, type: 3}
+  - characterName: Jugador
+    text: Eres un idiota
+    characterSprite: {fileID: 0}
+  choices: []
+  nextNode: {fileID: 0}

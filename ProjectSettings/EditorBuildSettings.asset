@@ -18,12 +18,42 @@ EditorBuildSettings:
     path: Assets/Scenes/Final 3/CinematicaA.unity
     guid: 91a4e93723d23254788ca01d6922b9b6
   - enabled: 1
-    path: Assets/Scenes/Final 2/CinematicaB.unity
-    guid: 6795627bd97290c459be7c46504b113d
+    path: Assets/Scenes/Final 3/CinematicaA 1.unity
+    guid: 0b7d47fd3ec72a648940ff6cca0773d6
+  - enabled: 1
+    path: Assets/Scenes/Final 3/CinematicaA 2.unity
+    guid: d316921f610d0e54396c3f1c84f3c650
+  - enabled: 1
+    path: Assets/Scenes/Final 3/CinematicaA 3.unity
+    guid: dd6d713ed0f00744aa1c58f46a586eff
+  - enabled: 1
+    path: Assets/Scenes/Final 3/CinematicaA 4.unity
+    guid: ff8bcfbcd72dd5b4bb9c2a4a7f85c5dc
+  - enabled: 1
+    path: Assets/Scenes/Final 3/CuartoA 1.unity
+    guid: a593c1697dc293d409bd2bfa486f873c
+  - enabled: 1
+    path: Assets/Scenes/Final 3/CuartoA 2.unity
+    guid: 5ac076024486f754582d4d0ffbac6ac8
+  - enabled: 1
+    path: Assets/Scenes/Final 2/Cinematica B1.unity
+    guid: 717540d9874f43d439385f4080cf91fb
+  - enabled: 1
+    path: Assets/Scenes/Final 2/Cinematica B2.unity
+    guid: e78f82996ec0273438889130ae13cb8f
+  - enabled: 1
+    path: Assets/Scenes/Final 2/Cinematica B3.unity
+    guid: b9d59623750aaba448dee97b8feac43b
+  - enabled: 1
+    path: Assets/Scenes/Final 2/Cuarto B.unity
+    guid: c645fe74d06085e41833b1dcd824f81d
   - enabled: 1
     path: Assets/Scenes/Final 1/Game over.unity
     guid: 7cde47aad0f615343abb301b83bde297
   - enabled: 1
     path: Assets/Scenes/Final 1/Morir en el intento.unity
     guid: ce202118e9fc1c549b5335240bac9b7f
+  - enabled: 1
+    path: Assets/Scenes/Final 2/Segundo final.unity
+    guid: 244feffe018e13e40b0cd192cc1d4111
   m_configObjects: {}
