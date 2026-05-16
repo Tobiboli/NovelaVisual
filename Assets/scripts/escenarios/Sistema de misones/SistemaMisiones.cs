@@ -6,17 +6,14 @@ using TMPro;
 
 public class SistemaMisiones : MonoBehaviour
 {
-    [Header("Configuración de UI")]
     public GameObject panelMision;
     public TMP_Text textoMision;
 
-    [Header("Datos de la Misión")]
     public int misionID;
     public int puntosDeConfianza = 0;
     [TextArea] public string descripcion;
     [TextArea] public string mensajeCompletado;
 
-    [Header("Sistema de Rivalidad")]
     public int rivalID = -1; 
     public int penalizacionRival = 20; 
 

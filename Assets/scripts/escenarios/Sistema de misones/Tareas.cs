@@ -6,12 +6,10 @@ using TMPro;
 
 public class Tareas : MonoBehaviour
 {
-    [Header("Configuración de la Tarea")]
     public int misionID;
     public float tiempoRequerido = 5f;
     private float tiempoActual = 0f;
 
-    [Header("Interfaz de Carga")]
     public GameObject panelProgreso;
     public Slider barraProgreso;
     public TMP_Text textoEstado;

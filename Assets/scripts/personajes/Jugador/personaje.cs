@@ -3,7 +3,7 @@ using UnityEngine;
 // Este script mueve un jugador en 2D usando Rigidbody2D
 public class personaje : MonoBehaviour
 {
-    public float velocidad = 5f;
+    private float velocidad = 5f;
     private Animator animator;
 
     private void Start()

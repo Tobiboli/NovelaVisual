@@ -6,11 +6,9 @@ using TMPro;
 
 public class VHS : MonoBehaviour
 {
-    [Header("Configuración de UI")]
     public GameObject Aviso;
     public TMP_Text MensajePantalla;
 
-    [Header("Datos de la Misión")]
     public int NumeroVHS;
     [TextArea] public string MensajeInicio;
 

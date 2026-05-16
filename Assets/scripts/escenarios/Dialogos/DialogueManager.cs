@@ -8,16 +8,13 @@ using UnityEngine.SceneManagement;
 //controlador de los nodos en pantalla
 public class DialogueManager : MonoBehaviour
 {
-    [Header("Componentes de UI")]
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI dialogueText;
     public Image characterImage;
 
-    [Header("Configuración de Opciones")]
     public GameObject choiceButtonPrefab;
     public Transform choiceButtonsContainer;
 
-    [Header("Ajustes")]
     public float typingSpeed = 0.02f;
     [SerializeField] private int numerodelasiguietescena;
 
@@ -27,7 +24,7 @@ public class DialogueManager : MonoBehaviour
     private bool isTyping = false;
 
     public void StartDialogue(DialogueNode startNode)
-    //La lista al leer los dialogos
+        //La lista al leer los dialogos
     {
         currentNode = startNode;
         currentLineIndex = 0;

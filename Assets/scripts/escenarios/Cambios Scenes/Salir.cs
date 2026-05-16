@@ -26,6 +26,8 @@ public class Salir : MonoBehaviour
 
     public void CambiarDeEscena()
     {
+       Destroy(gameObject);
+
         SceneManager.LoadScene(NumeroEscena);
 
     }

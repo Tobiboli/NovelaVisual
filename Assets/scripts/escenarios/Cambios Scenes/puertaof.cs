@@ -55,20 +55,26 @@ public class puertaof : MonoBehaviour
             if (puntosNPC_A > puntosNPC_B)
             {
                 SceneManager.LoadScene(numerodelasiguietescenaA);
+                Destroy(gameObject);
+
             }
             else if (puntosNPC_B > puntosNPC_A)
             {
                 SceneManager.LoadScene(numerodelasiguietescenaB);
+                Destroy(gameObject);
+
             }
             else
             {
+                Destroy(gameObject);
+
                 // Final malo por flojo :p
                 SceneManager.LoadScene(numerodelasiguietescenaFinal);
             }
         }
     }
 
-    public void CerrarCartel()
+    private void CerrarCartel()
     {
         if (cartelUI != null)
         {
