@@ -24,7 +24,7 @@ public class DialogueManager : MonoBehaviour
     private bool isTyping = false;
 
     public void StartDialogue(DialogueNode startNode)
-        //La lista al leer los dialogos
+    //La lista al leer los dialogos
     {
         currentNode = startNode;
         currentLineIndex = 0;
@@ -180,4 +180,3 @@ public class DialogueManager : MonoBehaviour
         Debug.Log("Fin de la conversación.");
     }
 }
-
