@@ -857,7 +857,8 @@ MonoBehaviour:
   choiceButtonPrefab: {fileID: 5038571560591859780, guid: 49a40790e760a6b46a02ea032c60fe03, type: 3}
   choiceButtonsContainer: {fileID: 871005131}
   typingSpeed: 0.02
-  numerodelasiguietescena: 12
+  numerodelasiguietescena: 7
+  numerodelasiguietescena2: 0
 --- !u!4 &984624750
 Transform:
   m_ObjectHideFlags: 0

@@ -5,7 +5,6 @@ using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-//controlador de los nodos en pantalla
 public class DialogueManager : MonoBehaviour
 {
     public TextMeshProUGUI nameText;
@@ -16,18 +15,20 @@ public class DialogueManager : MonoBehaviour
     public Transform choiceButtonsContainer;
 
     public float typingSpeed = 0.02f;
-    [SerializeField] private int numerodelasiguietescena;
-
+    [SerializeField] private int numerodelasiguietescena; 
 
     private DialogueNode currentNode;
     private int currentLineIndex = 0;
     private bool isTyping = false;
 
+
+    private int pendienteEscena = -1;
+
     public void StartDialogue(DialogueNode startNode)
-    //La lista al leer los dialogos
     {
         currentNode = startNode;
         currentLineIndex = 0;
+        pendienteEscena = -1; 
         DisplayNode();
     }
 
@@ -49,7 +50,7 @@ public class DialogueManager : MonoBehaviour
     {
         DialogueLine line = currentNode.dialogueLines[currentLineIndex];
         nameText.text = line.characterName;
-        //Controlador de las imagenes del personaje 
+
         if (characterImage != null)
         {
             if (line.characterSprite != null)
@@ -77,13 +78,13 @@ public class DialogueManager : MonoBehaviour
             yield return new WaitForSecondsRealtime(typingSpeed);
         }
         isTyping = false;
-        //si hay opciones el sistema manda a las opciones
+
         if (currentLineIndex == currentNode.dialogueLines.Count - 1 && currentNode.IsChoiceNode)
         {
             ShowChoices();
         }
     }
-    //logica del codigo, determina si hay dialogo lineal, opciones o se termino el dialogo
+
     public void AdvanceDialogue()
     {
         if (isTyping)
@@ -131,7 +132,15 @@ public class DialogueManager : MonoBehaviour
         else
         {
             EndDialogue();
-            SceneManager.LoadScene(numerodelasiguietescena);
+
+            if (pendienteEscena != -1)
+            {
+                SceneManager.LoadScene(pendienteEscena);
+            }
+            else
+            {
+                SceneManager.LoadScene(numerodelasiguietescena);
+            }
         }
     }
 
@@ -145,12 +154,18 @@ public class DialogueManager : MonoBehaviour
             buttonObj.GetComponentInChildren<TextMeshProUGUI>().text = choice.choiceText;
 
             Button button = buttonObj.GetComponent<Button>();
-            button.onClick.AddListener(() => OnChoiceSelected(choice.nextNode));
+            button.onClick.AddListener(() => OnChoiceSelected(choice.nextNode, choice.numerodelasiguietescena2));
         }
     }
 
-    private void OnChoiceSelected(DialogueNode nextNode)
+    private void OnChoiceSelected(DialogueNode nextNode, int escenaDeEleccion)
     {
+
+        if (escenaDeEleccion != -1)
+        {
+            pendienteEscena = escenaDeEleccion;
+        }
+
         if (nextNode != null)
         {
             currentNode = nextNode;
@@ -159,7 +174,7 @@ public class DialogueManager : MonoBehaviour
         }
         else
         {
-            EndDialogue();
+            CheckNodeEnd();
         }
     }
 

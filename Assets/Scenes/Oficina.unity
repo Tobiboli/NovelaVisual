@@ -781,7 +781,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -294.18005, y: -146.03001}
+  m_AnchoredPosition: {x: -294.18, y: -146.03001}
   m_SizeDelta: {x: -624.63, y: -330.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &257973607
@@ -4491,9 +4491,9 @@ MonoBehaviour:
   cartelUI: {fileID: 1624916222}
   npcRutaA_ID: 2
   npcRutaB_ID: 1
-  numerodelasiguietescenaA: 3
-  numerodelasiguietescenaB: 10
-  numerodelasiguietescenaFinal: 14
+  numerodelasiguietescenaA: 10
+  numerodelasiguietescenaB: 5
+  numerodelasiguietescenaFinal: 3
 --- !u!61 &1490991524
 BoxCollider2D:
   m_ObjectHideFlags: 0

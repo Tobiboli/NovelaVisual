@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C5A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Gabriel
+    text: Primero pide tu
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Est\xE1 bien, voy a querer\u2026"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: No quieres pedir otra cosa
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: ' No, muchas gracias'
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "\xBFEst\xE1s segura? Un postre por ejemplo"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: No soy fan de las cosas dulces
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: Entonces pido la cuenta
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: ...
+    text: (En el departamento)
+    characterSprite: {fileID: 0}
+  - characterName: Jugador
+    text: "Gracias por la cena, la pas\xE9 muy bien"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Gracias a ti por haber aceptado\u2026"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " \xBFPor qu\xE9 me ves tan fijamente?.\r"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Es que\u2026 Luces hermosa\u2026"
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: '...
+
+      Oye...'
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Dime\u2026\r\n"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Me gustar\xEDa compartir algo contigo \xBFQuieres pasar?"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "\xBFEst\xE1s segura?"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " Si, no te preocupes, tiene que ver con mi mam\xE1, pasa"
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  choices: []
+  nextNode: {fileID: 11400000, guid: fb0db432e9cc0cd4aa867de7e66b6c2c, type: 2}

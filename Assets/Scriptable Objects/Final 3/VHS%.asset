@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: VHS%
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: jugador
+    text: "Que raro\u2026 La pantalla esta en negro.\r\n"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: ...
+    characterSprite: {fileID: 0}
+  - characterName: jugador
+    text: "\xBFGabbriel? No te veo\u2026"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "\xBFPor qu\xE9 me haces esto?"
+    characterSprite: {fileID: 0}
+  - characterName: jugador
+    text: "\xBFComo?"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Necesito salir de aqu\xED, yo no ped\xED esto, yo no quer\xEDa hacer esto"
+    characterSprite: {fileID: 0}
+  - characterName: jugador
+    text: "Se m\xE1s claro no te entiendo"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Claro que sabes, todos saben \xBFPor qu\xE9 finges que no?"
+    characterSprite: {fileID: 0}
+  - characterName: jugador
+    text: "Me est\xE1s asustando\u2026\r"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "\xBFPor qu\xE9 interactuaste conmigo? Entre en piloto autom\xE1tico\u2026
+      De no ser por ti ya hubiera salido de este maldito juego\r"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Todo esto es tu culpa\r"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Yo no deber\xEDa estar aqu\xED.\r"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Yo no deber\xEDa estar aqu\xED.\r"
+    characterSprite: {fileID: 0}
+  choices: []
+  nextNode: {fileID: 0}

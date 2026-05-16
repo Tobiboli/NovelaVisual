@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C3.2A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Jugador
+    text: " *Piensa* Que lindo\u2026"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: ' En un rato bajo, gracias'
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: ...
+    text: ...
+    characterSprite: {fileID: 0}
+  - characterName: Jugador
+    text: Gracias por traerme
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Bueno, no quer\xEDa que regresaras sola.\r\n"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "*Le da un suave beso en la mejilla* Eres muy dulce, nos vemos ma\xF1ana."
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: ...
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: Nos vemos
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  choices: []
+  nextNode: {fileID: 0}

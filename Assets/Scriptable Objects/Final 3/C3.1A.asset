@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C3.1A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Jugador
+    text: "Pens\xE1ndolo mejor, prefiero terminarlo aqu\xED y de paso me pagan horas
+      extras"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "\xBFEst\xE1s segura? Yo creo que\u2026\r"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Estoy segura\r"
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " *Piensa* Fue lo mejor, apenas lo conozco y me quiere llevar a mi casa,
+      es un raro\r\r"
+    characterSprite: {fileID: 0}
+  choices: []
+  nextNode: {fileID: 0}

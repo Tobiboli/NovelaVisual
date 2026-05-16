@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C6A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: ...
+    text: ...
+    characterSprite: {fileID: 0}
+  - characterName: Jugador
+    text: "Mi mam\xE1 me dej\xF3 unas cintas antes de morir.\r\n"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: " De verdad lo siento\u2026 si quieres podemos hablar de otra cosa."
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: No, no te preocupes, la verdad necesito compartir esto con alguien
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "\xBFY cu\xE1ntas cintas te dejo?\r\n"
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Son 4, de hecho, la \xFAltima no es un video de ella, si no una pel\xEDcula
+      que dice que ve\xEDamos juntas cuando era beb\xE8.\r"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "\xBFQu\xE9 pel\xEDcula es?"
+    characterSprite: {fileID: 1395028209, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: La verdad no se, y ella misma menciona que cuando la vea, la voy a reconocer
+      de inmediato
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: Bueno, ponla y salimos de dudas.
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  choices: []
+  nextNode: {fileID: 0}

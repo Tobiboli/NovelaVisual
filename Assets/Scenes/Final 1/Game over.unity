@@ -570,7 +570,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -264.00003, y: -57.64499}
+  m_AnchoredPosition: {x: -264, y: -57.64499}
   m_SizeDelta: {x: -559.88, y: -115.29}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &842058731
@@ -857,7 +857,7 @@ MonoBehaviour:
   choiceButtonPrefab: {fileID: 5038571560591859780, guid: 49a40790e760a6b46a02ea032c60fe03, type: 3}
   choiceButtonsContainer: {fileID: 871005131}
   typingSpeed: 0.02
-  numerodelasiguietescena: 15
+  numerodelasiguietescena: 4
 --- !u!4 &984624750
 Transform:
   m_ObjectHideFlags: 0

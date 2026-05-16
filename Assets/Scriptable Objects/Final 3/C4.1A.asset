@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C4.1A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Jugador
+    text: "Prota: La verdad, no estoy interesada en ti, disculpame si mi amabilidad
+      se interpret\xF3 distinto.\r\n"
+    characterSprite: {fileID: 152283693, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  choices: []
+  nextNode: {fileID: 0}

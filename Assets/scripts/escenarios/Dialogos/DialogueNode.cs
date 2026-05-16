@@ -16,6 +16,7 @@ public struct DialogueChoice
     public string choiceText;
     //Conexion entre nodos que permite la ramificacion de rutas y opciones en el juego
     public DialogueNode nextNode;
+    public int numerodelasiguietescena2;
 }
 
 [CreateAssetMenu(fileName = "NuevoNodoDialogo", menuName = "Sistema de Diálogos/Nodo de Diálogo")]
@@ -26,6 +27,7 @@ public class DialogueNode : ScriptableObject
 
     [Header("Ramificaciones (Opciones)")]
     public List<DialogueChoice> choices;
+
 
     [Header("Siguiente Nodo Automático")]
     public DialogueNode nextNode;

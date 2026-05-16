@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee722cce5cb5164798838a953cdd67b, type: 3}
+  m_Name: C3A
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - characterName: Jugador
+    text: "Buenos d\xEDas, vengo por mi cafe"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Buen dia, si, si \xA1Toma!"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "\xBFA qui\xE9n le pediste mi n\xFAmero?\r"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Lo encontr\xE9 por ah\xED\u2026\r\n\r"
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " \xBFNo habr\xE1s revisado los expedientes de RH? \xBFVerdad?\r\r\n\r"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: " Es que tienen foto y lo pod\xEDa encontrar as\xED m\xE1s f\xE1cil\u2026\r"
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "\xBFPor qu\xE9 no preguntar a alguien de la oficina?\r"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: " Me gustan las cosas discretas, sabes c\xF3mo vuelan los chismes.\r"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " Tiene sentido\u2026 Solo me queda la duda con qu\xE9 cosas eres discreto\u2026
+      \r"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: ...
+    text: "...\r"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Bueno\u2026 \r"
+    characterSprite: {fileID: 561683164, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Te dejo, tengo trabajo pendiente y no quiero quedarme horas extra\r"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: ...
+    text: "(En la tarde noche)\r"
+    characterSprite: {fileID: 0}
+  - characterName: Gabriel
+    text: "Oye, \xBFLograste terminar?\r\r"
+    characterSprite: {fileID: 1526299315, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: " Todav\xEDa no y ya casi es la hora de salida\r\r"
+    characterSprite: {fileID: 152283693, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: "Si quieres\u2026 Dejalo hasta donde termines y lo terminas en casa, la
+      oficina de noche no es muy agradable, adem\xE1s que no vas a encontrar transporte
+      muy tarde\r\r"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Jugador
+    text: "Tienes raz\xF3n, igual no me falta mucho, pero una hora m\xE1s hace la
+      diferencia para tomar transporte. \r\r"
+    characterSprite: {fileID: -1351972674, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  - characterName: Gabriel
+    text: " Te\u2026 Te llevo,  espero que de la hora y bajo a encender el coche,
+      te veo en la entrada\r\r"
+    characterSprite: {fileID: -1835251392, guid: 3f600a75a755e864a8a4938cdc104269, type: 3}
+  choices:
+  - choiceText: Aceptar
+    nextNode: {fileID: 11400000, guid: 3bb9aa4097ebeb54d997edca8a06bb90, type: 2}
+    numerodelasiguietescena2: 16
+  - choiceText: Rechazar
+    nextNode: {fileID: 11400000, guid: 29aca1262b2998244b4b5fa62c56daa1, type: 2}
+    numerodelasiguietescena2: 4
+  nextNode: {fileID: 0}
