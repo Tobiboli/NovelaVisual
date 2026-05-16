@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//es la puerta para la oficina, determina con quien tienes mas puntos de confianza y te redirigue a la cinematica del personaje con mayor puntos de confianza
 public class puertaof : MonoBehaviour
 {
 

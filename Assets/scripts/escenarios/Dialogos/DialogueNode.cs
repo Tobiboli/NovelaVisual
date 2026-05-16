@@ -19,6 +19,7 @@ public struct DialogueChoice
     public int numerodelasiguietescena2;
 }
 
+//el nodo con el que se va atrabajr el dialgoo, contiene las lineas de dialogo, las opciones de dialogo y la conexion entre nodos
 [CreateAssetMenu(fileName = "NuevoNodoDialogo", menuName = "Sistema de Diálogos/Nodo de Diálogo")]
 public class DialogueNode : ScriptableObject
 {

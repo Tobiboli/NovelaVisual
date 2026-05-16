@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class puertacuar : MonoBehaviour
 {
+    //La puerta del cuarto se bloquea si no tienes el VHS, puse un cartell de recordatorio para que lo veas antes de irte
     public int NumeroVHS;
     [SerializeField] private int NumeroEscena;
     [SerializeField] private GameObject cartelUI;

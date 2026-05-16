@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class DialogueTrigger : MonoBehaviour
 {
-    [Header("Referencias")]
     public DialogueManager dialogueManager;
 
-    [Header("Nodo Inicial")]
     public DialogueNode firstNode;
 
-    [Header("Configuración")]
     public bool startAutomatically = true;
 
     private void Start()

@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//logica del dialogo,muestra el terxto letra por letra, las opciones de dialogo y la imagen del persoanje, al finalizar cambia de escena 
 public class DialogueManager : MonoBehaviour
 {
     public TextMeshProUGUI nameText;

@@ -97,7 +97,6 @@ public class Tareas : MonoBehaviour
         if (TryGetComponent<SpriteRenderer>(out SpriteRenderer sr))
             sr.color = Color.blue;
     }
-    //detecta colision entre objetos 
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player")) enRango = true;
